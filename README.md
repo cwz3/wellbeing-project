@@ -3,4 +3,4 @@ A data science project where we analyzed the connections between lifestyle and w
 
 Merging datasets:
 
-![Merge demo 1](demo/Screen Shot 2021-04-29 at 5.44.48 PM.png)
+![Demo1](demo/demo1)
