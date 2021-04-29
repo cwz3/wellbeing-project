@@ -7,3 +7,8 @@ A data science project where we analyzed the connections between lifestyle and w
 
 ![demo2](https://github.com/cwz3/wellbeing-project/blob/main/demo/demo2.png)
 
+# Linear Regression code:
+
+![demo3](https://github.com/cwz3/wellbeing-project/blob/main/demo/demo4.png)
+
+![demo4](https://github.com/cwz3/wellbeing-project/blob/main/demo/demo3.png)
